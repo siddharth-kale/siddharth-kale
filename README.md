@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @siddharth-kale
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Siddharth Kale
+- 👀 I’m interested in leveraging traditional and alternative data in investment research
+- 🌱 I’m currently learning AI, PowerBI and Graph Analytics
+- 💞️ I’m looking to collaborate on extracting insights from traditional financial and alternative data
+- 📫 Feel free to reach out to me via my Twitter account (@siddharthakale) or by email at siddharth.a.kale@gmail.com
 
 <!---
 siddharth-kale/siddharth-kale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
