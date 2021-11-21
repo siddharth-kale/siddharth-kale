@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddharth Kale
 - 👀 I’m interested in leveraging traditional and alternative data in investment research
-- 🌱 I’m currently learning AI, PowerBI and Graph Analytics
+- 🌱 All of my work repositories are private. Please reach out to me for access.
 - 💞️ I’m looking to collaborate on extracting insights from traditional financial and alternative data
 - 📫 Feel free to reach out to me via my Twitter account (@siddharthakale) or by email at siddharth.a.kale@gmail.com
 
